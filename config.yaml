@@ -1,7 +1,7 @@
 baseURL: https://iosdevlfs.github.io
 
 languageCode: en-us
-title: "Liufengsheng's Blog"
+title: "刘锋盛的技术博客"
 theme: "toha"
 
 # Manage languages
@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/iosdevlfs/iosdevlfs.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -38,3 +38,8 @@ params:
     enable: true
 
   background: "images/background.jpg"
+
+  logo:
+  main: images/main-logo.png
+  inverted: images/inverted-logo.png
+  favicon: images/favicon.png

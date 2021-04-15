@@ -7,3 +7,6 @@ description: Portfolio and personal blog of Liu fengsheng.
 customMenus:
 - name: Notes
   url: /notes
+
+newsletter:
+    enable: true
