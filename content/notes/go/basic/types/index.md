@@ -102,3 +102,15 @@ slice := []byte("Hello")
 ```
 
 {{< /note >}}
+
+{{< note title="Test" >}}
+
+```go
+slice := []int{2, 3, 4}
+```
+
+```go
+slice := []byte("Hello")
+```
+
+{{< /note >}}

@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: 全栈工程师
 # your company information
 company:
   name: 江苏海推数据科技有限公司
@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 5 years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: '本人是iOS高级软件工程师，Java、前端、CocosCreator游戏开发工程师，在iOS方面六年工作经验，有完整的Java、Vue项目经验，有完整且运营的小游戏开发经验。本人有团队Leader经验，熟悉面向对象编程，有团队协作精神，善于架构以及框架设计。'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

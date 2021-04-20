@@ -5,6 +5,8 @@ copyright: © 2021 Copyright.
 description: Portfolio and personal blog of Liu fengsheng.
 
 customMenus:
+- name: Open-Source
+  url: /open-source
 - name: Notes
   url: /notes
 

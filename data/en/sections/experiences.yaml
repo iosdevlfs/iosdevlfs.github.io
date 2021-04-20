@@ -11,54 +11,87 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: 江苏海推数据科技有限公司
+    url: "https://www.haituidata.com/"
+    location: 江苏无锡滨湖区K-Park
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 江苏海推数据科技有限公司成立于2016年，位于无锡市滨湖区绣溪路50号K-PARK服务中心大厦1号楼内，属国家“双软”企业和高新技术企业，致力于互联网游戏软件的开发、运营及推广，拥有丰富的业务资源及行业经验，专注于为客户提供优质的服务。
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: iOS工程师、Flutter工程师、CocosCreator工程师
+    start: 2017.08
+    end: 至今
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - 联运SDK开发、维护、更新，带组进行大版本更新，App开发(4398游戏攻略、4398游戏盒子等)
+    - 短链推广系统(CPS)项目前期调研、可行性分析、项目设计及带组开发
+    - CocosCreator游戏开发《极速战机》、《手指轮盘》、《神奇动物园冒险》、《蜘蛛纸牌》、《空当接龙》等
+    - 超级签分发(Fastlane、Jenkins、内网穿透)
+    - 电商项目《樱花1688》FlutterApp开发、Java后端开发、Vue管理后台开发
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  # - designation: iOS工程师、Flutter工程师、CocosCreator工程师
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: 张家港融贝科技有限公司
+    # url: "https://www.example.com"
+    location: 江苏苏州张家港
+    overview: 配合后台快速高效地定义数据传输格式，减小了沟通的代价，高效率地完成iOS用户端的开发任务。
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: iOS工程师
+    start: 2017.02
+    end: 2017.07
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - 独立完成《聚兔外卖》用户端前期需求分析；
+    - 给予设计图建议，配合后台进行相关难题攻克，包括推送、网络接口定义、数据格式规范、高德地图定位及POI检索等重要功能的实现；
+    - iOS用户端独立开发，根据测试反馈进行项目跟进与维护。
+
+- company:
+    name: 北京智普信科技股份有限公司无锡分公司
+    # url: "https://www.example.com"
+    location: 江苏无锡国家软件园
+    overview: 配合后台快速高效地定义数据传输格式，减小了沟通的代价，高效率地完成iOS用户端的开发任务
+  positions:
+  - designation: iOS工程师
+    start: 2016.02
+    end: 2016.12
+    responsibilities:
+    - 手机端产品需求分析，构建app框架，协调接口；
+    - 独立完成iOS端开发、维护、上架；
+    - 独立完成《Smart Secured Storage》开发及上架；
+    - 配合北京完成《HISS》后台重建、协调后台接口、代码编写及测试上架；
+    - 独立完成新项目《健康体侧》（现用名《高校点名》）手机端前期框架搭建、页面设计，完成社交、体侧模块、IM、商城及个人中心等初步功能实现。
+
+- company:
+    name: 江苏中育优教科技发展有限公司
+    # url: "https://www.example.com"
+    location: 江苏无锡
+    overview: 配合后台快速高效地定义数据传输格式，减小了沟通的代价，高效率地完成iOS用户端的开发任务
+  positions:
+  - designation: iOS工程师
+    start: 2015.07
+    end: 2015.12
+    responsibilities:
+    - iOS手机端应用开发，努力成为手机组主要程序员；
+    - 期间配合完成K12家长端及学生端重构、功能完善、BUG修复及上架；
+    - 新增功能需求分析，与后台协商接口定义，重要代码实现；
+    - 根据测试反馈，完成Bug修复及完善。
+
+- company:
+    name: 中国人民解放军71375部队97分队
+    # url: "https://www.example.com"
+    location: 山东潍坊
+    # overview: 义务兵
+  positions:
+  - designation: 义务兵
+    start: 2012.12
+    end: 2014.12
+    responsibilities:
+    - 期间任连队通讯员，副班长，任通讯员期间，配合处理连队日常事务；
+    - 任副班长期间任班级主要炮手职位，参与多次实兵演习及保障任务。
